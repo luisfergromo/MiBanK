@@ -83,14 +83,12 @@ body{
         top: 89%;
         width: 100vw;
     }
-    
 }
 .header img{
     z-index: 0;
     max-width: 100%;
     height: auto;
 }
-
 /* .navbar{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 } */
